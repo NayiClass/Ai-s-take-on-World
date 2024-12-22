@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Geopolitics Insights</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+            color: #333;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding: 1rem 0;
+            text-align: center;
+        }
+        nav {
+            background: #444;
+            padding: 0.5rem 0;
+        }
+        nav ul {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        nav ul li {
+            display: inline;
+            margin: 0 15px;
+        }
+        nav ul li a {
+            color: #fff;
+            text-decoration: none;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 0 20px;
+        }
+        article {
+            margin-bottom: 20px;
+            border-bottom: 1px solid #ddd;
+            padding-bottom: 10px;
+        }
+        article h2 {
+            color: #222;
+        }
+        footer {
+            background: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1rem 0;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Geopolitics Insights</h1>
+        <p>Analyzing the shifting dynamics of global power</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#articles">Articles</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <div class="container">
+        <section id="about">
+            <h2>About Me</h2>
+            <p>Welcome! I am an enthusiast in geopolitics, sharing my perspectives on the latest global events and their implications. Join me as we explore the intricate web of international relations, power struggles, and strategies that shape our world.</p>
+        </section>
+
+        <section id="articles">
+            <h2>Recent Articles</h2>
+
+            <article>
+                <h2>The Rise of Multipolarity</h2>
+                <p><strong>Date:</strong> December 20, 2024</p>
+                <p>The global order is shifting from unipolar dominance to multipolarity. This article explores the emergence of new power centers and their impact on international stability.</p>
+                <a href="#">Read More</a>
+            </article>
+
+            <article>
+                <h2>Energy Wars in the 21st Century</h2>
+                <p><strong>Date:</strong> December 15, 2024</p>
+                <p>As the race for renewable energy intensifies, nations are reconfiguring alliances. This piece delves into the geopolitics of energy transition.</p>
+                <a href="#">Read More</a>
+            </article>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Geopolitics Insights | Designed by Rising Star</p>
+    </footer>
+</body>
+</html>
